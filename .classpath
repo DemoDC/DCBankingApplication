@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="challenge/src/main/java"/>
+	<classpathentry kind="src" path="challenge/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/jar_files/spring-boot-gradle-plugin-1.5.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/jar_files/dependency-management-plugin-1.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/jar_files/spring-boot-loader-tools-1.5.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/jar_files/spring-core-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/jar_files(1)/spring-boot-starter-web-1.5.4.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
